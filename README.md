@@ -64,6 +64,7 @@ Publish the website in the LocalHost.
 ```
 
 ## css
+```
 body{
     color:aquamarine;
     font-family: Helvetica, sans-serif;
@@ -133,12 +134,13 @@ footer{
   #end{
     padding-right:60px;
   }
+```
 
 
 ## OUTPUT:
 ![Screenshot (324)](https://github.com/user-attachments/assets/1e7e693d-861f-4f30-b559-a1e3ab6e3f53)
 
-![Screenshot (324)](https://github.com/user-attachments/assets/e07434b4-f8b4-425f-b9ce-6097740c0385)
+![Screenshot (321)](https://github.com/user-attachments/assets/c13fbb08-241f-46dd-a372-a24401761229)
 
 
 
